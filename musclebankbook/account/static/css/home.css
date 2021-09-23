@@ -1,0 +1,14 @@
+.underbar{
+    display: flex;
+    background-color: aquamarine;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.login{
+    display: flex;
+    justify-content: center;
+}
+.signup{
+    display: flex;
+    justify-content: right;
+}
